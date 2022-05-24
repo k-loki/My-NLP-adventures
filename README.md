@@ -1,3 +1,2 @@
-# fuzzy-adventure
+# My adventures into Natural Language Processing
 
-This is my adventure into Data science and NLP
